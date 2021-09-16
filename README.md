@@ -1,9 +1,8 @@
 # Improving generalization of Batch Whitening by Convolutional Unit Optimization
 
-**This is the official repository of "Improving generalization of Batch Whitening by Convolutional Unit Optimization", ICCV 2021.**
-
 **Yooshin Cho, Hanbyel Cho, Youngsoo Kim, and Junmo Kim** | [Paper](https://arxiv.org/abs/2108.10629)
 
+**This is the official repository of "Improving generalization of Batch Whitening by Convolutional Unit Optimization", ICCV 2021.**
 
 ## Abstract
 
@@ -12,6 +11,6 @@ Batch Whitening is a technique that accelerates and stabilizes training by trans
 
 ## License
 
-                             This project is distributed under [MIT license](LICENSE).
+This project is distributed under [MIT license](LICENSE).
 
 
