@@ -47,7 +47,6 @@ class CSCBlock(nn.Module):
             out = self.bn2(out)
             out = self.relu(out)
             out = self.shift(out)
-            out = out * 1
             out = self.conv2(out)
             if self.downsample is not None:
                 residual = self.downsample(x)
@@ -62,7 +61,6 @@ class CSCBlock(nn.Module):
 
             out = self.relu(out)
             out = self.shift(out)
-            out = out * 1
             out = self.bn2(out)
             out = self.conv2(out)
 

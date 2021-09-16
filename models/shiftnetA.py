@@ -38,7 +38,6 @@ class CSCBlock(nn.Module):
             out = self.conv1(out)
 
             out = self.shift(out)
-            out = out * 1
             out = self.bn2(out)
             out = self.relu(out)
             out = self.conv2(out)
@@ -56,7 +55,6 @@ class CSCBlock(nn.Module):
             out = self.conv1(out)
 
             out = self.shift(out)
-            out = out * 1
             out = self.relu(out)
             out = self.bn2(out)
             out = self.conv2(out)
