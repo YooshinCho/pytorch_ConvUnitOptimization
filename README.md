@@ -11,6 +11,6 @@ Batch Whitening is a technique that accelerates and stabilizes training by trans
 
 ## License
 
-This project is distributed under [MIT license](LICENSE).
+This project is distributed under [MIT license](LICENSE.md).
 
 

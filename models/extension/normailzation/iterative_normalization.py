@@ -1,13 +1,5 @@
-"""
-Reference:  Iterative Normalization: Beyond Standardization towards Efficient Whitening, CVPR 2019
-
-- Paper:
-- Code: https://github.com/huangleiBuaa/IterNorm
-"""
 import torch.nn
 from torch.nn import Parameter
-
-# import extension._bcnn as bcnn
 
 __all__ = ['iterative_normalization', 'IterNorm']
 
