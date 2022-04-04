@@ -1,6 +1,6 @@
 # Improving generalization of Batch Whitening by Convolutional Unit Optimization
 
-**Yooshin Cho, Hanbyel Cho, Youngsoo Kim, and Junmo Kim** | [Paper](https://arxiv.org/abs/2108.10629)
+**[Yooshin Cho](https://scholar.google.com/citations?hl=ko&user=V3oL9esAAAAJ), [Hanbyel Cho](https://scholar.google.com/citations?user=VvNXbu8AAAAJ&hl=ko), Youngsoo Kim, and [Junmo Kim](https://scholar.google.com/citations?hl=ko&user=GdQtWNQAAAAJ)** | [Paper](https://arxiv.org/abs/2108.10629)
 
 **This is the official repository of "Improving generalization of Batch Whitening by Convolutional Unit Optimization", ICCV 2021.**
 
