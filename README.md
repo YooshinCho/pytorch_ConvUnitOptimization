@@ -15,7 +15,7 @@ Make sure you have the following dependencies installed before proceeding:
 - PyTorch == 0.4.0
 
 ## License
-This project is distributed under [MIT license](LICENSE.md).
+This project is distributed under [MIT license](LICENSE.md). If you use our code/models in your research, please cite our paper:
 ```
 @inproceedings{cho2021improving,
     title={Improving Generalization of Batch Whitening by Convolutional Unit Optimization},
